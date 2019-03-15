@@ -1,0 +1,9 @@
+#nbStopWords.txt
+
+I tried up until 10 but those values of N will just maintain the same accuracy rates
+
+however from 10 and beyond it seems that the accuracy rates tend to go up, just
+up until the 10,000 mark where the accuracy starts to dip from there. Thus, I would
+conclude that taking out frequent words (stop words) helps the data and the
+classifier but taking out too much training data can affect the training phase negatively.
+So around 10 to 800 900 ish raised the accuracy rates the most.

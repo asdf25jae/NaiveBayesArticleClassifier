@@ -1,0 +1,8 @@
+#topwordsLogOdds.txt
+
+for the topwords Log odds, I found that the words were very different from the
+words that were printed in the topwords.py. In fact, there were no overlap
+between the two lists (for the two classes) and the words were all very strange
+and eccentric such as digby, melissa, loading etc. The main difference was that
+these words are not what I would have expected to find because they were all
+not very common words. 

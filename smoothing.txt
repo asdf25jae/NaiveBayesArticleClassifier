@@ -1,0 +1,12 @@
+#smoothing.txt
+
+
+for q = 0, The accuracy decreased severely to 0.1 which it should because the
+smoothing as explained is meant to get rid of some of the calculation problems
+and having our parameter q at zero means no smoothing is occurring.
+
+for q = 0.1 however, the accuracy improved from the original calculation (when q=1)
+and thus we were able to achieve better accuracy overall.
+
+However as we tried 0.5, and 1.5, the accuracy rates stayed the same as if we
+had q = 1, and so for very small values, I am guessing that smoothing occurs better

@@ -1,0 +1,7 @@
+#top words.txt
+
+The two lists look almost the same with words like the, to, of, for, i, this overlapping
+in both lists. In general, these are articles or simple action verbs of the English language and are the
+most frequent words used in any piece of English writing.
+
+Examples of most frequent words : have, was, as, are, not, to, and, a, in etc.
