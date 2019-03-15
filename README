@@ -1,3 +1,12 @@
 Naive Bayes text classifier ML algorithm used to classify an article as {Liberal, Conservative}. 
 
+nb.py contains main algorithm, nbstopwords, and smoothing incorporate Stop Words and Laplace Smoothing to make for better predictors. 
+
+Laplace smoothing includes adding small epsilons, negligible terms in denominator and numerator to "smooth" out probabilities used 
+to predict whether Liberal or Conservative article. Required when log probabilities are used, because log 0 gives us negative probs. 
+
+Stop Words are common articles, words of English language removed from the body of text to predict better based on distinct words. 
+
+Both Naive Bayes programs written use bag-of-words or vocabulary concept to predict the political alignment of article. 
+
 
